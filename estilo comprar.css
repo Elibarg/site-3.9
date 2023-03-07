@@ -10,8 +10,8 @@
         justify-items: top;
         align-content: top;
         align-items: top;
-        animation: rubberBand 4s;
-        animation: bounceInDown 4s;
+        animation: rubberBand 5s;
+        animation: bounceInDown 5s;
     }
 footer {
     padding: 50px;
