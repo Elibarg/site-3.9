@@ -1,0 +1,138 @@
+.texto1
+    {
+    position: absolute;
+    color: white;
+    top: 350px; 
+    left: 750px;
+    width: 350px;
+    animation: bounceInUp 4s;
+
+    }
+    .titulo
+    {
+        position: absolute;
+        top: 20px;
+        left: 550px;
+        animation: rubberBand 4s;
+        animation: bounceInDown 4s;
+        
+}
+    
+        .titulo2
+        {
+        position: absolute;
+        top: 135px;
+        left: 625px;
+        animation: rubberBand 4s;
+        animation: bounceInUp 4s;
+
+        }
+    
+    .discneymar
+    {
+        position: absolute;
+        top: 350px; 
+        left: 499px;  
+        animation: bounceInUp 4s;
+    }
+   
+    .planeta
+    {
+        position: absolute;
+        height: 50px;
+        left: 999px;
+        top: 125px;
+        animation: fadeInRightBig 4s;
+    }
+   
+    .planeta2
+    {
+        position: absolute;
+        height: 50px;
+        left: 525px;
+        top: 125px;  
+        animation: fadeInLeftBig 4s;
+    }
+   .disquete
+   {
+       position: absolute;
+       height: 100px;
+       left: 350px;
+       top: 425px;
+       animation: fadeInLeftBig 4s;
+       
+   }
+
+   .disquete2
+   {
+       position: absolute;
+       height: 100px;
+       left: 1125px;
+       top: 425px;
+       animation: fadeInRightBig 4s;
+      
+   }
+   
+   footer {
+    padding: 50px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 90%; 
+    line-height: 100px;
+    top: 535px;
+    animation: bounceInUp 4s;
+  }
+
+  table, th, td {
+    border:px solid rgb(255, 255, 255);
+  }
+
+  a:link {
+    color: rgb(253, 253, 253);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .Barra1
+  {
+    position: absolute;
+    top: 615px; 
+    left: 555px;
+    animation: bounceInUp 4s;
+  }
+  .Barra2 
+  {
+    position: absolute;
+    top: 615px; 
+    left: 155px;
+    animation: bounceInUp 4s;
+  }
+  .Barra3 
+  {
+    position: absolute;
+    top: 645px; 
+    left: 555px;       
+    animation: bounceInUp 4s;
+  }
+  .Barra4 
+  {
+    position: absolute;
+    top: 645px; 
+    left: 155px;
+    animation: bounceInUp 4s;
+  }

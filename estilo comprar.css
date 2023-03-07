@@ -1,0 +1,210 @@
+.titulo
+    {
+        position: absolute;
+        width: 100%;
+        height: -100vh;
+        top: -25px;
+        left: 525px;
+        display: flex;
+        justify-content: top;
+        justify-items: top;
+        align-content: top;
+        align-items: top;
+        animation: rubberBand 4s;
+        animation: bounceInDown 4s;
+    }
+footer {
+    padding: 50px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 90%; 
+    line-height: 100px;
+    top: 535px;
+    animation: bounceInUp 4s;
+  }
+  .NeymarGoldPlus
+  {
+    position: absolute;
+    top: 165px; 
+    left: -315px; 
+    padding: 50px;
+    text-align: center;
+    color: white;
+    animation: fadeInLeftBig 4s;
+  }
+  .VeridianoGigabyte
+   {
+    position: absolute;
+    top: 165px; 
+    left: 525px; 
+    padding: 50px;
+    text-align: center;
+    color: white;
+    animation: fadeInLeftBig 4s;
+    
+   }
+   .Estampa_Genérica
+   {
+    position: absolute;
+    top: 165px; 
+    left: 835px; 
+    padding: 50px;
+    text-align: center;
+    color: white;
+    animation: fadeInLeftBig 4s;
+   }
+   
+   
+   .FafasLalau
+    {
+      position: absolute;
+      top: 165px; 
+      left: 1059px;  
+      animation: fadeInLeftBig 4s; 
+    }
+    .Germano
+   {
+    position: absolute;
+    top: 375px; 
+    left: 370px;  
+    animation: fadeInLeftBig 4s;
+   }
+  .GuduLegal
+   {
+    position: absolute;
+      top: 370px; 
+      left: 560px;  
+      animation: fadeInLeftBig 4s;
+   }
+   .Colorido
+   {
+    position: absolute;
+      top: 375px; 
+      left: 875px;  
+      animation: fadeInLeftBig 4s;
+   }
+   .Estiloretrô
+   {
+    position: absolute;
+      top: 375px; 
+      left: 1055px ;  
+      animation: fadeInLeftBig 4s;
+   }
+
+  .discneymar
+    {
+        position: absolute;
+        top: 150px; 
+        left: 399px;  
+        animation: fadeInLeftBig 4s;
+    
+    }
+    
+    .disquete-veridiano
+    {
+      position: absolute;
+      top: 150px; 
+      left: 550px;  
+      animation: fadeInLeftBig 4s;
+    }
+    .disqueteestampa
+    {
+      position: absolute;
+      top: 150px; 
+      left: 850px;  
+      animation: fadeInLeftBig 4s;
+    }
+    .disquete-fafase-lalau
+    {
+      position: absolute;
+      top: 150px; 
+      left: 1050px;  
+      animation: fadeInLeftBig 4s;
+    }
+    .germanodisk
+    {
+      position: absolute;
+      top: 350px; 
+      left: 350px;  
+      animation: fadeInLeftBig 4s;
+    }
+    .disquete-ratuedisk-gudulegal
+    {
+      position: absolute;
+      top: 350px; 
+      left: 550px;  
+      animation: fadeInLeftBig 4s;
+    }
+
+    .disquete-Colorido
+    {
+      position: absolute;
+      top: 350px; 
+      left: 899px;  
+      animation: fadeInLeftBig 4s;
+    }
+  
+    .disquete-retrodisk
+    {
+      position: absolute;
+      top: 350px; 
+      left: 1049px;  
+      animation: fadeInLeftBig 4s;
+    }
+    
+    
+    .Barra1
+    {
+      position: absolute;
+      top: 615px; 
+      left: 555px;
+      animation: bounceInUp 4s;
+    }
+    .Barra2 
+    {
+      position: absolute;
+      top: 615px; 
+      left: 155px;
+      animation: bounceInUp 4s;
+    }
+    .Barra3 
+    {
+      position: absolute;
+      top: 645px; 
+      left: 555px;       
+      animation: bounceInUp 4s;
+    }
+    .Barra4 
+    {
+      position: absolute;
+      top: 645px; 
+      left: 155px;
+      animation: bounceInUp 4s;
+    }
+
+
+  table, th, td {
+    border:px solid rgb(255, 255, 255);
+  }
+
+  a:link {
+    color: rgb(253, 253, 253);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  } 
